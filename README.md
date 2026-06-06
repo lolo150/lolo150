@@ -143,7 +143,7 @@ Main work:
 
 - GitHub: [github.com/lolo150](https://github.com/lolo150)
 - Email: yakoubialla@gmail.com
-- LinkedIn: add your LinkedIn link here
+- LinkedIn:https://www.linkedin.com/in/ala-eddine-yakoubi-875544259/
 
 ---
 
