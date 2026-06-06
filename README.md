@@ -52,7 +52,7 @@ I enjoy building practical data projects that cover the full data lifecycle: dat
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
-!(https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
 
 ### BI, Tools & Deployment
 
